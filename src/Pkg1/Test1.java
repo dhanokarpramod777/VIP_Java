@@ -7,6 +7,9 @@ public class Test1 {
 
 		
 		System.out.println("Pramod");
+		 int a = 10 ;
+
+
 	}
 
 }
