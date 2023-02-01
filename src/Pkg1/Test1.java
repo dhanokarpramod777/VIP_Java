@@ -21,6 +21,9 @@ public class Test1 {
 		int d = z*a;
 		System.out.println(d);
 
+		int x = d/b;
+		System.out.println(x);
+
 	}
 
 }
