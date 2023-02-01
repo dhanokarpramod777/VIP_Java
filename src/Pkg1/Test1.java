@@ -18,6 +18,8 @@ public class Test1 {
 		 int z = c-b ;
 		System.out.println(z);
 
+		int d = z*a;
+		System.out.println(d);
 
 	}
 
