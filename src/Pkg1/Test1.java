@@ -23,6 +23,9 @@ public class Test1 {
 
 		int x = d/b;
 		System.out.println(x);
+		
+		int s = d%10;
+		System.out.println(s);
 
 	}
 
